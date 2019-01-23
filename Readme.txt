@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Women in Aerospace RSO Website
 
-Theme Name: eBusiness
-Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Any questions/comments/concerns: ejw7410@gmail.com (Emily Williams)
