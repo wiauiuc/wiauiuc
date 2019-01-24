@@ -13,11 +13,10 @@ Supports Thumbs: true
   color: #fff;
   position: relative;
   text-align: center;
-  height: 50%
 }
 
 .slider-content {
-  padding: 0px 0px;
+  padding: 180px 60px;
 }
 
 .nivo-caption::after {
