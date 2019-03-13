@@ -568,6 +568,11 @@ div#preloader {
   font-weight: 500;
 }
 
+.edu_outreach, .tech_proj, .social_events, .prof_dev {
+   margin: 10px 0;
+   padding: 20px;
+}
+
 /*----------------------------------------
   6.Faq Area
 ----------------------------------------*/
