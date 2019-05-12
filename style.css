@@ -345,8 +345,20 @@ ul.b {
 		display: none;
 	}
 
-	#intro .text {
-		font-size:80%;
+	#intro {
+		display: none;
+	}
+
+	.button {
+		font-size: 62%;
+	}
+
+	.button:hover {
+		font-size: 62%;
+	}
+
+	#block {
+		display: none;
 	}
 
 }
