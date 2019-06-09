@@ -58,6 +58,7 @@ html {
 .point {
     text-transform: uppercase;
     text-align: center;
+    font-size: 80%;
 }
 
     .point:after {
