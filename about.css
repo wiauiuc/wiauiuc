@@ -58,14 +58,13 @@ html {
 .point {
     text-transform: uppercase;
     text-align: center;
-    font-size: 80%;
 }
 
     .point:after {
         content: "";
         display: block;
         margin: 0 auto;
-        width: 50%;
+        width: 20%;
         padding-top: 2%;
         border-bottom: 8px solid #13294b;
     }
