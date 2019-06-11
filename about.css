@@ -32,6 +32,11 @@ html {
     width: 70%;
 }
 
+.avatar2 {
+    border-radius: 50%;
+    width: 52.5%;
+}
+
 .title {
     display: block;
 }
