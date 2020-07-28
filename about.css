@@ -32,6 +32,11 @@ html {
     width: 200px;
 }
 
+.avatar3 {
+    border-radius: 50%;
+    width: 200px;
+}
+
 .avatar:hover {
     filter: grayscale(50%);
 }
